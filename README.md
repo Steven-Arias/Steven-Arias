@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Steven-Arias
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning HTML & CSS.
+- 🌱 I’m currently learning HTML, CSS, and Javascript in Codecademy!
 - 💞️ I’m looking to collaborate on anything front-end!
 - 📫 How to reach me: Discord: StevenArias#5883
 
